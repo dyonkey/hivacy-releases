@@ -1,2 +1,13 @@
 # hivacy-releases
-# 이것은 hivacy 자동 업데이트 기능 구현을 위한 리포입니다.
+# 🛡️ Hivacy Desktop App
+
+The official download repository for **Hivacy**.
+Protect your privacy with AI-powered motion detection.
+
+## 🚀 Download
+Click the link below to download the latest version for Windows.
+
+👉 **[Download Latest Version (Setup.exe)](https://github.com/dyonkey/hivacy-releases/releases/latest)**
+
+---
+*If you have any issues, please contact support.*
